@@ -1,0 +1,4 @@
+github.com/foursking/bstring v0.0.0-20201106022705-2683c321a473 h1:OeeL4gp7I9vTst+eL52Xt+9wHLtZWc9y2U0yvpv4Wjw=
+github.com/foursking/bstring v0.0.0-20201106022705-2683c321a473/go.mod h1:Bn9D91p7ah5psKxQ4gYx2TbauKhfLjp6dU60l1Nq4ic=
+github.com/foursking/btype v0.0.0-20201113100634-b48d9a15e856 h1:2iPy+nDOBhu44syRWQ4MtPeVAzNrd4nFdYZKt/Udxrc=
+github.com/foursking/btype v0.0.0-20201113100634-b48d9a15e856/go.mod h1:Gc/o314mAC9v3dsovhWmWCLQit2GLI/6XsJEoOeQtBg=
